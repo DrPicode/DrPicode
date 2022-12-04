@@ -4,7 +4,7 @@
 
 👀 I'm interested in computers, new technologies, high tech, and aeronautics.
 
-🌱 I'm at CESI Ecole d'ingenieurs in computer science speciality. I learn to code thanks to different languages such as:
+🌱 I'm at CESI Engineer School in computer science speciality. I learn to code thanks to different languages such as:
 
 * C / C++ / C#
 * HTML / CSS / JS / PHP
